@@ -1,7 +1,6 @@
-import React from 'react'
-import ReactDom from 'react-dom'
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 const app = document.getElementById('app')
-const Template = <h1>Welcome to CornVideo</h1>
-
-ReactDOM.render(Template, app)
+const template = <h1>Welcome to Corn-Video</h1>
+ReactDOM.render(template, app)
