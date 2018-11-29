@@ -1,0 +1,22 @@
+{
+  "name": "corn-video",
+  "version": "1.0.0",
+  "description": "this is a project created to start in react world.",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D4v1d98Ru1z/Corn-Video.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "David Ruiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/D4v1d98Ru1z/Corn-Video/issues"
+  },
+  "homepage": "https://github.com/D4v1d98Ru1z/Corn-Video#readme"
+}
