@@ -6,9 +6,9 @@ class Media extends Component{
         return(
             <div className="Media">
                 <div>
-                    <img src="./images/covers/bitcoin.jpg" width={260} height={160} />
-                    <h3>This is my first component</h3>
-                    <p>By: David Ruiz</p>
+                    <img className="Media-image" src="./images/series/titans.jpg" width={260} height={160} />
+                    <h3 className="Media-title">Titans</h3>
+                    <p className="Media-year">2018</p>
                 </div>
             </div>
         )
