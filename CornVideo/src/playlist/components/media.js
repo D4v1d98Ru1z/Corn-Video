@@ -3,8 +3,14 @@ import './media.css'
 import PropTypes from 'prop-types'
 
 class Media extends Component{
+    state={
+        type: 'video'
+    }
     handleClick = (event) =>{
-        console.log(this.props.type)
+        this.setState({
+            type: 'audio'
+        })
+        console.log(this.state.type)
     }
     render(){
         const {title, year, image} = this.props
