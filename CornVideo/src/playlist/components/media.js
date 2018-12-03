@@ -19,7 +19,7 @@ class Media extends Component{
 
 Media.propTypes = {
     title: PropTypes.string.isRequired,
-    year: PropTypes.number,
+    year: PropTypes.string,
     poster: PropTypes.string,
     type: PropTypes.oneOf(['video', 'audio'])
 }
