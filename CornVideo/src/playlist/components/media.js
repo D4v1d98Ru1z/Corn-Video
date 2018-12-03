@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 
 class Media extends Component{
     render(){
-        const {title, year, image} = this.props
+        const {title, year, poster} = this.props
         return(
             <div className="Media" onClick={this.handleClick}>
                 <div>
