@@ -9,7 +9,7 @@
           "title": "¿Qué es responsive Design?",
           "year": "LeonidasEsteban",
           "type": "video",
-          "cover": "./images/covers/responsive.jpg",
+          "poster": "./images/covers/responsive.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 1
         },
@@ -17,7 +17,7 @@
           "title": "Cómo optimzar la carga de un website",
           "year": "LeonidasEsteban",
           "type": "video",
-          "cover": "./images/covers/optimizar.jpg",
+          "poster": "./images/covers/optimizar.jpg",
           "src": "http://peach.themazzone.com/durian/movies/sintel-1024-surround.mp4",
           "id": 2
         },
@@ -25,7 +25,7 @@
           "title": "Qué es Bitcoin",
           "year": "Yograterol",
           "type": "video",
-          "cover": "./images/covers/bitcoin.jpg",
+          "poster": "./images/covers/bitcoin.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 3
         },
@@ -33,7 +33,7 @@
           "title": "Que pasó con HTML5",
           "year": "Freddier",
           "type": "video",
-          "cover": "./images/covers/html5.jpg",
+          "poster": "./images/covers/html5.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 4
         },
@@ -41,7 +41,7 @@
           "title": "Lo mejor de Mejorando.la",
           "year": "Cvander",
           "type": "video",
-          "cover": "./images/covers/mejorandola.jpg",
+          "poster": "./images/covers/mejorandola.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 5
         }
@@ -56,7 +56,7 @@
           "title": "One more time",
           "year": "Daft Punk",
           "type": "video",
-          "cover": "./images/covers/one-more-time.jpg",
+          "poster": "./images/covers/one-more-time.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 1
         },
@@ -64,7 +64,7 @@
           "title": "Midnight City",
           "year": "M83",
           "type": "video",
-          "cover": "./images/covers/midnight.jpg",
+          "poster": "./images/covers/midnight.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 5
         },
@@ -72,7 +72,7 @@
           "title": "Solar Sailer",
           "year": "Daft Punk",
           "type": "video",
-          "cover": "./images/covers/solar-sailer.jpg",
+          "poster": "./images/covers/solar-sailer.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 2
         },
@@ -80,7 +80,7 @@
           "title": "The social network",
           "year": "The social network",
           "type": "video",
-          "cover": "./images/covers/social.jpg",
+          "poster": "./images/covers/social.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 4
         },
@@ -88,7 +88,7 @@
           "title": "No vaya a ser",
           "year": "Pablo Alboran",
           "type": "video",
-          "cover": "./images/covers/no-vaya-a-ser.jpg",
+          "poster": "./images/covers/no-vaya-a-ser.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 3
         }
