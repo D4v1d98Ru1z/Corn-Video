@@ -2,6 +2,7 @@
     overflow-x: auto;
     white-space: nowrap;
     overflow-y: hidden;
+    padding-bottom: 1em;
 }
 
 .Playlist::-webkit-scrollbar-track {
