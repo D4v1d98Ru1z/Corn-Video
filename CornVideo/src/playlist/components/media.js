@@ -3,21 +3,12 @@ import './media.css'
 import PropTypes from 'prop-types'
 
 class Media extends Component{
-    state={
-        type: 'video'
-    }
-    handleClick = (event) =>{
-        this.setState({
-            type: 'audio'
-        })
-        console.log(this.state.type)
-    }
     render(){
         const {title, year, image} = this.props
         return(
             <div className="Media" onClick={this.handleClick}>
                 <div>
-                    <img className="Media-image" src={image} width={260} height={160} />
+                    <img className="Media-image" src={poster} width={260} height={160} />
                     <h3 className="Media-title">{title}</h3>
                     <p className="Media-year">{year}</p>
                 </div>
@@ -29,7 +20,7 @@ class Media extends Component{
 Media.propTypes = {
     title: PropTypes.string.isRequired,
     year: PropTypes.number,
-    image: PropTypes.string,
+    poster: PropTypes.string,
     type: PropTypes.oneOf(['video', 'audio'])
 }
 
