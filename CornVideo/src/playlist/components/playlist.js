@@ -6,7 +6,7 @@ function Playlist(props){
         const PLAYLIST = props.data.categories[0].playlist
         return(
             <div className="Playlist">
-                <Play/>
+                <Play size={50} color="blue"/>
                 {
                     PLAYLIST.map((item)=>{
                         return <Media {...item} key={item.id} />
