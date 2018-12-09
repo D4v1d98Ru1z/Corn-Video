@@ -4,7 +4,9 @@ import HomeLayout from '../components/home-layout'
 class Home extends Component{
     render(){
         return(
-            <HomeLayout/>
+            <HomeLayout>
+                HI 5
+            </HomeLayout>
         )
     }
 }
