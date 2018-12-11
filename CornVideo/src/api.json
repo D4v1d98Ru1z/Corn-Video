@@ -103,7 +103,7 @@
           "title": "Despacito",
           "year": "Luis Fonsi",
           "type": "video",
-          "cover": "./images/covers/despacito.jpg",
+          "poster": "./images/covers/despacito.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 1
         },
@@ -111,7 +111,7 @@
           "title": "Echame la culpa",
           "year": "Luis fonsi",
           "type": "video",
-          "cover": "./images/covers/echame-la-culpa.jpg",
+          "poster": "./images/covers/echame-la-culpa.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 3
         },
@@ -119,7 +119,7 @@
           "title": "Mi Gente",
           "year": "J Bavil",
           "type": "video",
-          "cover": "./images/covers/mi-gente.jpg",
+          "poster": "./images/covers/mi-gente.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 2
         },
@@ -127,7 +127,7 @@
           "title": "Felices los 4",
           "year": "Maluma",
           "type": "video",
-          "cover": "./images/covers/felices.jpg",
+          "poster": "./images/covers/felices.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 4
         },
@@ -135,7 +135,7 @@
           "title": "Me Rehúso",
           "year": "Danny Ocean",
           "type": "video",
-          "cover": "./images/covers/rehuso.jpg",
+          "poster": "./images/covers/rehuso.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 5
         }
