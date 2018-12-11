@@ -1,9 +1,9 @@
 import React from 'react'
-//import './modal.css'
+import './modal.css'
 
 function Modal(props){
     return(
-        <div>
+        <div className="Modal">
             this is a modal
             {props.children}
         </div>
