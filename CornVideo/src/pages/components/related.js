@@ -1,10 +1,10 @@
 import React from 'react'
 import Logo from '../../../images/logo.png'
-
+import './related.css'
 
 function Related(props){
     return(
-        <div>
+        <div className="Related" >
             <img src={Logo} width={250} />
         </div>
     )
