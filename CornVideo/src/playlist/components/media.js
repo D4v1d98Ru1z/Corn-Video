@@ -6,7 +6,7 @@ class Media extends PureComponent{
     render(){
         const {title, year, poster} = this.props
         return(
-            <div className="Media" onClick={this.handleClick}>
+            <div className="Media" onClick={this.props.handleClick}>
                 <div>
                     <img className="Media-image" src={poster} width={260} height={160} />
                     <h3 className="Media-title">{title}</h3>
