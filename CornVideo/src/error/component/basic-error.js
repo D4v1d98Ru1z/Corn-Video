@@ -1,8 +1,17 @@
 import React from 'react'
+import './basic-error.css'
 
 function BasicError(props){
     return(
-        <h1>UPS!, there's an error, sorry about that</h1>
+        <div className="BasicError">
+            <div className="BasicError-left">
+                <h1>Oops!</h1>
+                <h2>We can't find what you're looking for</h2>
+            </div>
+            <div className="BasicError-Container">
+                <div className="BasicError-Right"></div> 
+            </div>
+        </div>
     )
 }
 
