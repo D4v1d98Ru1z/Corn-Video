@@ -3,7 +3,7 @@ import './search.css'
 
 const Search = () => (
     <form className="Search" >
-        <input type="text" className="Search-input" />
+        <input type="text" placeholder="Search" className="Search-input" />
     </form>
 )
 
