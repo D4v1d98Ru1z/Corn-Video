@@ -1,9 +1,17 @@
 import React from 'react'
 import './search.css'
 
-const Search = () => (
-    <form className="Search" >
-        <input type="text" placeholder="Search" className="Search-input" />
+const Search = (props) => (
+    <form 
+    className="Search"
+    onSubmit={props.handleSubmit}
+    >
+        <input 
+        type="text" 
+        placeholder="Search" 
+        className="Search-input" 
+        name="search"
+        />
     </form>
 )
 
