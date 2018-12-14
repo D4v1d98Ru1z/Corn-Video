@@ -1,5 +1,5 @@
- import React, { Component } from 'react'
-
+import React, { Component } from 'react'
+import './video.css'
 class Video extends Component{
     render(){
         return(
