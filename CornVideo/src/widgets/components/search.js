@@ -11,6 +11,8 @@ const Search = (props) => (
         placeholder="Search" 
         className="Search-input" 
         name="search"
+        ref={props.setRef}
+        value={props.value}
         />
     </form>
 )
