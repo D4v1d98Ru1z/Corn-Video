@@ -13,6 +13,7 @@ const Search = (props) => (
         name="search"
         ref={props.setRef}
         value={props.value}
+        onChange={props.handleChange}
         />
     </form>
 )
