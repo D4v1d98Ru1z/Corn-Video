@@ -27,6 +27,11 @@ class VideoPlayer extends Component{
             duration: this.video.duration
         })
     }
+    handleTimeUpdate = event =>{
+        this.setState({
+            currentTime: this.video.currentTime
+        })
+    }
 
     render(){
         return(
@@ -40,7 +45,8 @@ class VideoPlayer extends Component{
                     handleClick={this.togglePlay}
                     />
                     <Timer 
-                    duration={this.state.duration}   
+                    duration={this.state.duration}  
+                    currentTime={this.state.currentTime} 
                     />
                 </Controls>
 
@@ -49,6 +55,7 @@ class VideoPlayer extends Component{
                 pause={this.state.pause}
                 src="http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4"
                 handleLoadedMetadata={this.handleLoadedMetadata}
+                handleTimeUpdate={this.handleTimeUpdate}
                 />
             </VideoPlayerLayout>
         )
