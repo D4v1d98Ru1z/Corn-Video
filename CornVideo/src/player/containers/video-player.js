@@ -9,7 +9,8 @@ import Controls from '../components/video-player-controls'
 class VideoPlayer extends Component{
     state={
         pause: true,
-        duration: 0
+        duration: 0,
+        currentTime: 0
     }
     togglePlay = (event) =>{
         this.setState({
