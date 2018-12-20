@@ -8,6 +8,7 @@ import Controls from '../components/video-player-controls'
 import {formattedTime} from '../../libs/utilities'
 import ProgressBar from '../components/progress-bar'
 import Spinner from '../components/spinner'
+import Volume from '../components/volume';
 
 class VideoPlayer extends Component{
     state={
@@ -55,6 +56,9 @@ class VideoPlayer extends Component{
             loading: false
         })
     }
+    handleChangeVolume = event => {
+        this.video.volume = event.target.value
+    }
 
     render(){
         return(
@@ -75,6 +79,9 @@ class VideoPlayer extends Component{
                     duration={this.state.floatTime}
                     value={this.state.progress}
                     handleProgressChange={this.handleProgressChange}
+                    />
+                    <Volume 
+                        handleChangeVolume={this.handleChangeVolume}
                     />
                 </Controls>
                 <Spinner
