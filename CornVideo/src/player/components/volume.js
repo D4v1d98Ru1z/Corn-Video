@@ -4,7 +4,10 @@ import './volume.css'
 
 function Volume(props){
     return(
-        <button className="Volume">
+        <button 
+        className="Volume"
+        onClick={props.handleClickMute}
+        >
             <VolumeButton 
                 size={25}
                 color="white"
@@ -16,6 +19,7 @@ function Volume(props){
                     max={1}
                     step={0.05}
                     onChange={props.handleChangeVolume}
+                    value={props.value}
                 />
             </div>
         </button>

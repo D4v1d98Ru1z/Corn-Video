@@ -59,7 +59,9 @@ class VideoPlayer extends Component{
     handleChangeVolume = event => {
         this.video.volume = event.target.value
     }
-
+    toggleVolume = event => {
+        
+    }
     render(){
         return(
             <VideoPlayerLayout>
@@ -80,7 +82,8 @@ class VideoPlayer extends Component{
                     value={this.state.progress}
                     handleProgressChange={this.handleProgressChange}
                     />
-                    <Volume 
+                    <Volume
+                        handleClickMute={this.toggleVolume} 
                         handleChangeVolume={this.handleChangeVolume}
                     />
                 </Controls>
