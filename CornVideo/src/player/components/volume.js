@@ -6,12 +6,14 @@ function Volume(props){
     return(
         <button 
         className="Volume"
-        onClick={props.handleClickMute}
-        >
-            <VolumeButton 
-                size={25}
-                color="white"
-            />
+        >       
+            <div  onClick={props.handleClickMute}>
+                <VolumeButton 
+                    size={25}
+                    color="white"
+                />
+
+            </div>
             <div className="Volume-range">
                 <input 
                     type="range"
