@@ -3,7 +3,7 @@ import Search from '../components/search'
 
 class SearchContainer extends Component{
     state = {
-        value: 'Titan' 
+        value: '' 
     }
     handleSubmit = event => {
         event.preventDefault()
@@ -17,7 +17,8 @@ class SearchContainer extends Component{
 
     hamdleInputChange = event =>{
         this.setState({
-            value: event.target.value.replace(' ', '-')
+            //value: event.target.value.replace(' ', '-')
+            value: event.target.value
         })
     }
 
