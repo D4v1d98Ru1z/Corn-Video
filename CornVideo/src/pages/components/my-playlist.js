@@ -1,9 +1,10 @@
 import React from 'react'
+import './my-playlist.css'
 
 function myPlaylist(props) {
     const { playlist } = props
     return(
-        <div>
+        <div className="MyPlaylist">
             <p>{playlist}</p>
         </div>
     )
