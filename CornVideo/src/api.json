@@ -183,6 +183,33 @@
       "id": 10,
       "playlist": "10. Fortnite or PUB"
     }
+  ],
+  "avatar": [
+    {
+      "id": 1,
+      "name": "David Ruiz",
+      "src": ""
+    },
+    {
+      "id": 2,
+      "name": "Mabelenin Solano",
+      "src": ""
+    },
+    {
+      "id": 3,
+      "name": "Sophie Alpert",
+      "src": ""
+    },
+    {
+      "id": 4,
+      "name": "Brian Clark",
+      "src": ""
+    },
+    {
+      "id": 5,
+      "name": "Dan Abramov",
+      "src": ""
+    }
   ]
 }
 
