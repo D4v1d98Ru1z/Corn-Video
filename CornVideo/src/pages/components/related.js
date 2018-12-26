@@ -7,17 +7,21 @@ function Related(props){
     return(
         <div className="Related" >
             <img src={Logo} width={250} />
-            <h5>My Playlist</h5>
-            {
-                props.myPlaylist.map(item => {
-                    return(
-                        <MyPlaylist 
-                            key={item.id} 
-                            {...item}
-                        />
-                    )
-                })
-            }
+            <div className="Related-Playlist">
+                <h3>My Playlist</h3>
+                <div>
+                    {
+                        props.myPlaylist.map(item => {
+                            return(
+                                <MyPlaylist 
+                                    key={item.id} 
+                                    {...item}
+                                />
+                            )
+                        })
+                    }
+                </div>
+            </div>
         </div>
     )
 }
