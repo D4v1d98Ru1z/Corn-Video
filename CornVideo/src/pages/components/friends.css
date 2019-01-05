@@ -1,0 +1,16 @@
+.Friends {
+    width: 100%;
+    display: flex;
+}
+
+.Friends img{
+    border-radius: 50%;
+    align-self: center;
+    margin-right: 10px;
+}
+.Friends p{
+    align-self: center;
+}
+.Friends p:hover{
+    cursor: pointer;
+}
