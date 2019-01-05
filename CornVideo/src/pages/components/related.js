@@ -2,6 +2,7 @@ import React from 'react'
 import Logo from '../../../images/logo.png'
 import './related.css'
 import MyPlaylist from './my-playlist'
+import Friends from './friends'
 
 function Related(props){
     return(
@@ -14,6 +15,21 @@ function Related(props){
                         props.myPlaylist.map(item => {
                             return(
                                 <MyPlaylist 
+                                    key={item.id} 
+                                    {...item}
+                                />
+                            )
+                        })
+                    }
+                </div>
+            </div>
+            <div className="Related-Playlist">
+                <h3>My Friends</h3>
+                <div>
+                    {
+                        props.avatar.map(item => {
+                            return(
+                                <Friends 
                                     key={item.id} 
                                     {...item}
                                 />
