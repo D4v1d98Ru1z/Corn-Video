@@ -32,9 +32,11 @@ class Home extends Component{
                         myPlaylist={this.props.data.myPlaylist} 
                         avatar={this.props.data.avatar}
                     />
-                    <Categories categories={this.props.data.categories} 
+                    <Categories 
+                        categories={this.props.data.categories} 
                         handleOpenModal={this.handleOpenModal}
-                        />
+                        profile={this.props.data.profile}
+                    />
                     {
                         this.state.modalVisible &&
                         <ModalContainer>
