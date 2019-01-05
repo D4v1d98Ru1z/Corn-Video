@@ -3,3 +3,14 @@
     padding: 20px 0 20px 20px;
     background-color: white;
 }
+
+.Categories .Container{
+    display: flex;
+}
+.Categories .Search{
+    width: 50%;
+}
+.Categories .Prof{
+    float: right;
+    width: 50%;
+}

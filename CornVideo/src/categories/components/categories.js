@@ -7,14 +7,20 @@ import Profile from './../../widgets/components/profile'
 function Categories(props){
     return(
         <div className="Categories" >
-            <Search/>
-            {
-                props.profile.map(item => {
-                    return(
-                        <Profile key={item.id} {...item}/>
-                    )
-                })
-            }
+            <div className="Container">
+                <div className="Search">
+                    <Search/>
+                </div>
+                <div className="Prof">
+                    {
+                        props.profile.map(item => {
+                            return(
+                                <Profile key={item.id} {...item}/>
+                            )
+                        })
+                    }
+                </div>
+            </div>
             {
                 props.categories.map((item) => {
                     return (
