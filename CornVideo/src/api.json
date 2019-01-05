@@ -187,28 +187,30 @@
   "avatar": [
     {
       "id": 1,
-      "name": "David Ruiz",
-      "src": ""
+      "name": "Mabelenin Solano",
+      "src": "https://scontent.fbog2-1.fna.fbcdn.net/v/t1.0-9/29597602_1899775233418193_7686076647487153414_n.jpg?_nc_cat=106&_nc_ht=scontent.fbog2-1.fna&oh=cd28785444e8fc6575e0c2d14d1c6668&oe=5CC09770"
     },
     {
       "id": 2,
-      "name": "Mabelenin Solano",
-      "src": ""
+      "name": "Sophie Alpert",
+      "src": "https://pbs.twimg.com/profile_images/901699146993737729/mi3uhA15_400x400.jpg"
     },
     {
       "id": 3,
-      "name": "Sophie Alpert",
-      "src": ""
+      "name": "Brian Clark",
+      "src": "https://pbs.twimg.com/profile_images/918661753726267392/_8fTbh4i_400x400.jpg"
     },
     {
       "id": 4,
-      "name": "Brian Clark",
-      "src": ""
-    },
-    {
-      "id": 5,
       "name": "Dan Abramov",
-      "src": ""
+      "src": "https://pbs.twimg.com/profile_images/906557353549598720/oapgW_Fp_400x400.jpg"
+    }
+  ],
+  "profile":[
+    {
+      "id": 1,
+      "name": "David Ruiz",
+      "src": "https://pbs.twimg.com/profile_images/1050009482082816001/i02F6yfz_400x400.jpg"
     }
   ]
 }
