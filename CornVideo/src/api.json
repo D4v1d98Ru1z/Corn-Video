@@ -2,46 +2,46 @@
   "categories": [
     {
       "id": 1,
-      "description": "Lo mejor de la semana",
-      "title": "Destacados",
+      "description": "The best of the week",
+      "title": "Highlights",
       "playlist": [
         {
-          "title": "¿Qué es responsive Design?",
-          "year": "LeonidasEsteban",
+          "title": "Titans",
+          "year": "2018",
           "type": "video",
-          "poster": "./images/covers/responsive.jpg",
+          "poster": "./images/series/titans.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 1
         },
         {
-          "title": "Cómo optimzar la carga de un website",
-          "year": "LeonidasEsteban",
+          "title": "The Flash",
+          "year": "2014",
           "type": "video",
-          "poster": "./images/covers/optimizar.jpg",
+          "poster": "./images/series/flash.jpg",
           "src": "http://peach.themazzone.com/durian/movies/sintel-1024-surround.mp4",
           "id": 2
         },
         {
-          "title": "Qué es Bitcoin",
-          "year": "Yograterol",
+          "title": "Game of Thrones",
+          "year": "2011",
           "type": "video",
-          "poster": "./images/covers/bitcoin.jpg",
+          "poster": "./images/series/got.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 3
         },
         {
-          "title": "Que pasó con HTML5",
-          "year": "Freddier",
+          "title": "Supernatural",
+          "year": "2005",
           "type": "video",
-          "poster": "./images/covers/html5.jpg",
+          "poster": "./images/series/supernatural.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 4
         },
         {
-          "title": "Lo mejor de Mejorando.la",
-          "year": "Cvander",
+          "title": "Vikings",
+          "year": "2013",
           "type": "video",
-          "poster": "./images/covers/mejorandola.jpg",
+          "poster": "./images/series/vikings.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 5
         }
@@ -49,46 +49,46 @@
     },
     {
       "id": 2,
-      "description": "Lo mejor para concentrarte",
-      "title": "Para programar",
+      "description": "Time with family",
+      "title": "Comedy",
       "playlist": [
         {
-          "title": "One more time",
-          "year": "Daft Punk",
+          "title": "Two and a Half Men",
+          "year": "2003",
           "type": "video",
-          "poster": "./images/covers/one-more-time.jpg",
+          "poster": "./images/series/thm.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 1
         },
         {
-          "title": "Midnight City",
-          "year": "M83",
+          "title": "Friends",
+          "year": "1994",
           "type": "video",
-          "poster": "./images/covers/midnight.jpg",
+          "poster": "./images/series/friends.jpeg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 5
         },
         {
-          "title": "Solar Sailer",
-          "year": "Daft Punk",
+          "title": "The Big Bang Theory",
+          "year": "2007",
           "type": "video",
-          "poster": "./images/covers/solar-sailer.jpg",
+          "poster": "./images/series/tbbt.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 2
         },
         {
-          "title": "The social network",
-          "year": "The social network",
+          "title": "How I Meet your Mother",
+          "year": "2005",
           "type": "video",
-          "poster": "./images/covers/social.jpg",
+          "poster": "./images/series/himym.jpeg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 4
         },
         {
-          "title": "No vaya a ser",
-          "year": "Pablo Alboran",
+          "title": "Young Sheldon",
+          "year": "2017",
           "type": "video",
-          "poster": "./images/covers/no-vaya-a-ser.jpg",
+          "poster": "./images/series/young-sheldon.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 3
         }
@@ -96,46 +96,46 @@
     },
     {
       "id": 3,
-      "description": "Si no te queda de otra",
-      "title": "Regueton",
+      "description": "A little of superheroes",
+      "title": "Comics",
       "playlist": [
         {
-          "title": "Despacito",
-          "year": "Luis Fonsi",
+          "title": "Supergirl",
+          "year": "2015",
           "type": "video",
-          "poster": "./images/covers/despacito.jpg",
+          "poster": "./images/series/supergirl.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 1
         },
         {
-          "title": "Echame la culpa",
-          "year": "Luis fonsi",
+          "title": "Iron Fist",
+          "year": "2017",
           "type": "video",
-          "poster": "./images/covers/echame-la-culpa.jpg",
+          "poster": "./images/series/iron-fist.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 3
         },
         {
-          "title": "Mi Gente",
-          "year": "J Bavil",
+          "title": "Arrow",
+          "year": "2012",
           "type": "video",
-          "poster": "./images/covers/mi-gente.jpg",
+          "poster": "./images/series/arrow.jpeg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 2
         },
         {
-          "title": "Felices los 4",
-          "year": "Maluma",
+          "title": "Legends of Tomorrow",
+          "year": "2016",
           "type": "video",
-          "poster": "./images/covers/felices.jpg",
+          "poster": "./images/series/lot.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 4
         },
         {
-          "title": "Me Rehúso",
-          "year": "Danny Ocean",
+          "title": "Daredevil",
+          "year": "2015",
           "type": "video",
-          "poster": "./images/covers/rehuso.jpg",
+          "poster": "./images/series/daredevil.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 5
         }
@@ -145,43 +145,43 @@
   "myPlaylist": [
     {
       "id": 1,
-      "playlist": "1. 5 Resons to choose a notebook over a computer desktop"
+      "playlist": "1. Titans"
     },
     {
       "id": 2,
-      "playlist": "2. Get around easily with a New York limousine service"
+      "playlist": "2. Doctor Who"
     },
     {
       "id": 3,
-      "playlist": "3. How to cook a tender juicy steak"
+      "playlist": "3. Supernatural"
     },
     {
       "id": 4,
-      "playlist": "4. How to remove Kidney stones"
+      "playlist": "4. The Flash"
     },
     {
       "id": 5,
-      "playlist": "5. The science of supertitions"
+      "playlist": "5. Game of Thrones"
     },
     {
       "id": 6,
-      "playlist": "6. Get the boot a birds eye look"
+      "playlist": "6. Arrow"
     },
     {
       "id": 7,
-      "playlist": "7. Does hydroderm work"
+      "playlist": "7. The Big Bang Theory"
     },
     {
       "id": 8,
-      "playlist": "8. Ordering contact lens online"
+      "playlist": "8. Sabrina"
     },
     {
       "id": 9,
-      "playlist": "9. Gourmet cooking for pleasure"
+      "playlist": "9. Elementary"
     },
     {
       "id": 10,
-      "playlist": "10. Fortnite or PUB"
+      "playlist": "10. Legends of Tomorrow"
     }
   ],
   "avatar": [
