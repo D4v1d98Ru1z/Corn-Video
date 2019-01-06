@@ -1,6 +1,7 @@
 .Profile{
     max-width: 200px;
     display: flex;
+    text-align: right;
 }
 
 .Profile-ico, img, p{
