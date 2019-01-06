@@ -1,5 +1,6 @@
 .Categories{
     overflow: hidden;
+    width: 100%;
     padding: 20px 0 20px 20px;
     background-color: white;
 }
@@ -7,10 +8,11 @@
 .Categories .Container{
     display: flex;
 }
-.Categories .Search{
-    width: 50%;
+
+.Categories .Container .Search {
+    width:  70%;
 }
-.Categories .Prof{
-    float: right;
-    width: 50%;
+
+.Categories .Container .Prof{
+    width: 30%;
 }
