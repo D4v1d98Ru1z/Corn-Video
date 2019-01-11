@@ -21,14 +21,15 @@ class SearchContainer extends Component{
             value: event.target.value
         })
     }
+    
 
     render(){
         return(
             <Search
-            setRef={this.setInputRef}
-            handleSubmit={this.handleSubmit}
-            handleChange={this.hamdleInputChange}
-            value={this.state.value}
+                setRef={this.setInputRef}
+                handleSubmit={this.handleSubmit}
+                handleChange={this.hamdleInputChange}
+                value={this.state.value}
             />
         )
     }
