@@ -27,8 +27,7 @@ class Categories extends PureComponent{
     
     render(){
         const filterCategories = this.props.categories.filter(catTittle => {
-            const filter = catTittle.playlist[0].title.toLowerCase().indexOf(this.state.value.toLowerCase()) !== -1
-            console.log(filter)
+            const filter = catTittle.title.toLowerCase().indexOf(this.state.value.toLowerCase()) !== -1
             return filter
         })
         return(
