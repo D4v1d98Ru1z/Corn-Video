@@ -34,7 +34,7 @@
           "year": "2005",
           "type": "video",
           "poster": "./images/series/supernatural.jpg",
-          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "src": "http://peach.themazzone.com/durian/movies/sintel-1024-surround.mp4",
           "id": 4
         },
         {
@@ -57,7 +57,7 @@
           "year": "2003",
           "type": "video",
           "poster": "./images/series/thm.jpg",
-          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "src": "http://peach.themazzone.com/durian/movies/sintel-1024-surround.mp4",
           "id": 1
         },
         {
@@ -73,7 +73,7 @@
           "year": "2007",
           "type": "video",
           "poster": "./images/series/tbbt.jpg",
-          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "src": "http://peach.themazzone.com/durian/movies/sintel-1024-surround.mp4",
           "id": 2
         },
         {
@@ -81,7 +81,7 @@
           "year": "2005",
           "type": "video",
           "poster": "./images/series/himym.jpeg",
-          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "src": "http://peach.themazzone.com/durian/movies/sintel-1024-surround.mp4",
           "id": 4
         },
         {
@@ -104,7 +104,7 @@
           "year": "2015",
           "type": "video",
           "poster": "./images/series/supergirl.jpg",
-          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "src": "http://peach.themazzone.com/durian/movies/sintel-1024-surround.mp4",
           "id": 1
         },
         {
@@ -120,7 +120,7 @@
           "year": "2012",
           "type": "video",
           "poster": "./images/series/arrow.jpeg",
-          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "src": "http://peach.themazzone.com/durian/movies/sintel-1024-surround.mp4",
           "id": 2
         },
         {
@@ -136,7 +136,7 @@
           "year": "2015",
           "type": "video",
           "poster": "./images/series/daredevil.jpg",
-          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "src": "http://peach.themazzone.com/durian/movies/sintel-1024-surround.mp4",
           "id": 5
         }
       ]
