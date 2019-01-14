@@ -15,4 +15,5 @@
 
 .Categories .Container .Prof{
     width: 30%;
+    white-space: nowrap;
 }
