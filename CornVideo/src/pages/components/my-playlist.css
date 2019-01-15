@@ -1,8 +1,0 @@
-.MyPlaylist {
-    width: 100%;
-}
-
-.MyPlaylist p:hover{
-    cursor: pointer;
-    text-decoration: underline;
-}
